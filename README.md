@@ -17,7 +17,7 @@ Este é o backend da aplicação **Libra Translate**, que utiliza **FastAPI** e 
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/libra-translate-be.git
+git clone https://github.com/seu-usuario/LibraTranslateBack.git
 cd libra-translate-be
 ```
 
